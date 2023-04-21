@@ -1,10 +1,18 @@
 ### Hey, there! I'm Pedro Fernandes 
 
-<div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lebackrobot&show_icons=true&theme=dracula&include_all_commits=true count_private=true">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebackrobot&layout=compact&langs_count=16&theme=dracula">
-</div>
- 
+```json
+
+  {
+    "Name": "Pedro Fernandes",
+    "age": 24,
+    "bio": "Hey, there! I'm a college student and software engineer developer",
+    "college": "Federal University of Rio Grande",
+    "job": [
+      "company": "Anota Aí",
+      "hole": "Software engineer developer"
+    ]
+  }
+```
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
