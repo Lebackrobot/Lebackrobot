@@ -1,16 +1,15 @@
-### Hey, there! I'm Pedro Fernandes 
 
-```json
-
+```javascript
+  //A little about myself
   {
-    "Name": "Pedro Fernandes",
-    "age": 24,
-    "bio": "Hey, there! I'm a college student and software engineer developer",
-    "college": "Federal University of Rio Grande",
-    "job": [
-      "company": "Anota Aí",
-      "hole": "Software engineer developer"
-    ]
+    Name: "Pedro Fernandes",
+    age: 24,
+    bio: "Hey, there! I'm a college student and software engineer developer",
+    college: "Federal University of Rio Grande",
+    jobs: [{
+      company: "Anota Aí",
+      hole: "Software engineer developer"
+    }]
   }
 ```
 
