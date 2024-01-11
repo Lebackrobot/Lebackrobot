@@ -3,7 +3,7 @@
   //A little about myself
   {
     Name: "Pedro Fernandes",
-    age: 24,
+    age: 25,
     bio: "Hey, there! I'm a college student and software engineer developer",
     college: "Federal University of Rio Grande",
     jobs: [{
@@ -32,5 +32,3 @@
   <a href = "mailto:dr.pedrofernades@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-fernandes-b72a8516b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/Lebackrobot/Lebackrobot/blob/output/github-contribution-grid-snake.svg)
