@@ -1,16 +1,12 @@
 
-```javascript
-  //A little about myself
-  {
-    Name: "Pedro Fernandes",
-    age: 25,
-    bio: "Hey, there! I'm a college student and software engineer developer",
-    college: "Federal University of Rio Grande",
-    jobs: [{
-      company: "Anota Aí",
-      hole: "Software engineer developer"
-    }]
-  }
+```json
+{
+  "Name": "Pedro Fernandes",
+  "age": 25,
+  "bio": "Hey, there! I'm a college student and software engineer developer",
+  "college": "Federal University of Rio Grande",
+}
+
 ```
 
 <div style="display: inline_block"><br>
