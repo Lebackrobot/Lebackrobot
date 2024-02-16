@@ -1,7 +1,7 @@
 
 ```json
 {
-  "Name": "Pedro Fernandes",
+  "name": "Pedro Fernandes",
   "age": 25,
   "bio": "Hey, there! I'm a college student and software engineer developer",
   "college": "Federal University of Rio Grande",
